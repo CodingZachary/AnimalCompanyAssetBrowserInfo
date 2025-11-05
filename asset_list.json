@@ -1,0 +1,33 @@
+{
+    "Animals/Monsters": {
+        "Animals": {
+            "gorilla": "animals/gorilla.fbx",
+            "tiger": "animals/tiger.fbx"
+        },
+        "Monsters": {
+            "armstrong": "monsters/armstrong.fbx",
+            "angler": "monsters/angler.fbx"
+        }
+    },
+    "Cosmetics/Items": {
+        "Cosmetics": {
+            "hat": "cosmetics/hat.fbx",
+            "sword": "cosmetics/sword.fbx"
+        },
+        "Items": {
+            "potion": "items/potion.fbx",
+            "shield": "items/shield.fbx"
+        }
+    },
+    "Presets": {
+        "Materials": {
+            "gold": "presets/materials/gold.fbx"
+        },
+        "Lighting": {
+            "bright": "presets/lighting/bright.fbx"
+        },
+        "Full PFP": {},
+        "Effects": {},
+        "Other": {}
+    }
+}
